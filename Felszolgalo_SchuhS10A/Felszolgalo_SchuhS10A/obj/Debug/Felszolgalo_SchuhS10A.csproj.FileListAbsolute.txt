@@ -1,0 +1,7 @@
+C:\Users\schuhs\Documents\Felszolgalo_SchuhS10A\Felszolgalo_SchuhS10A\bin\Debug\Felszolgalo_SchuhS10A.exe.config
+C:\Users\schuhs\Documents\Felszolgalo_SchuhS10A\Felszolgalo_SchuhS10A\bin\Debug\Felszolgalo_SchuhS10A.exe
+C:\Users\schuhs\Documents\Felszolgalo_SchuhS10A\Felszolgalo_SchuhS10A\bin\Debug\Felszolgalo_SchuhS10A.pdb
+C:\Users\schuhs\Documents\Felszolgalo_SchuhS10A\Felszolgalo_SchuhS10A\obj\Debug\Felszolgalo_SchuhS10A.csprojAssemblyReference.cache
+C:\Users\schuhs\Documents\Felszolgalo_SchuhS10A\Felszolgalo_SchuhS10A\obj\Debug\Felszolgalo_SchuhS10A.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\Felszolgalo_SchuhS10A\Felszolgalo_SchuhS10A\obj\Debug\Felszolgalo_SchuhS10A.exe
+C:\Users\schuhs\Documents\Felszolgalo_SchuhS10A\Felszolgalo_SchuhS10A\obj\Debug\Felszolgalo_SchuhS10A.pdb
